@@ -9,9 +9,9 @@ This repository contains the source code for the Yoghurt system.
 - **static/** — holds CSS and JavaScript files
 - **templates/** — HTML layout files
 
-Website Features:
+**Website Features:**
 
-Frontend Pages:
+**Frontend Pages:**
 
 Beautiful homepage with hero section, featured products, customer testimonials, and call-to-action
 Products catalog with filtering by flavor and stock status
@@ -20,12 +20,13 @@ Contact page for inquiries and special requests
 Admin dashboard with authentication
 Admin Dashboard:
 
-Secure login/signup system using Bolt Database authentication
+Secure login/signup system using Database authentication
 Manage orders with status updates (pending, confirmed, preparing, delivered, cancelled)
 View and respond to contact submissions
 Monitor product inventory and update stock status
 Delete orders and messages as needed
-Database (Bolt Database SQL):
+Database (Database SQL):
+
 
 Products table with 6 sample yoghurt flavors pre-loaded
 Orders table for customer purchases
