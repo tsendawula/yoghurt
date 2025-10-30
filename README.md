@@ -9,9 +9,9 @@ This repository contains the source code for the Yoghurt system.
 - **static/** — holds CSS and JavaScript files
 - **templates/** — HTML layout files
 
-**Website Features:**
+# Website Features:**
 
-**Frontend Pages:**
+# Frontend Pages
 
 Beautiful homepage with hero section, featured products, customer testimonials, and call-to-action
 Products catalog with filtering by flavor and stock status
