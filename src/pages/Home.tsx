@@ -16,7 +16,7 @@ export default function Home() {
       .from('products')
       .select('*')
       .eq('is_featured', true)
-      .limit(3)
+      .limit(4)
 
     if (data && !error) {
       setFeaturedProducts(data)
